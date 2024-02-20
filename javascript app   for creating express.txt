@@ -1,0 +1,18 @@
+javascript app   for creating expresss app
+   
+ express --hbs
+  
+for installing the mongodb and node connection
+  
+ npm install mongodb
+
+for installing node packages
+
+  npm install
+
+for installing nodemon
+
+   npm install nodemon
+
+   nodemon bin/www
+ 
